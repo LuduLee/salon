@@ -22,5 +22,9 @@ namespace BeautySalon
             int totalCost = selectedServicesCosts.Sum();
             totalCostTextBlock.Text = $"{totalCost} руб.";
         }
+        private void GoBack_Click(object sender, RoutedEventArgs e)
+        {
+            NavigationService?.GoBack();
+        }
     }
 }
