@@ -17,3 +17,4 @@ C:\4-2ИС\salon\salon\obj\Debug\salon.csproj.GenerateResource.cache
 C:\4-2ИС\salon\salon\obj\Debug\salon.csproj.CoreCompileInputs.cache
 C:\4-2ИС\salon\salon\obj\Debug\salon.exe
 C:\4-2ИС\salon\salon\obj\Debug\salon.pdb
+C:\4-2ИС\salon\salon\obj\Debug\salon_Content.g.cs

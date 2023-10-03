@@ -1,0 +1,19 @@
+USE [салон]
+GO
+
+INSERT INTO [dbo].[Service]
+           ([Title]
+           ,[Cost]
+           ,[DurationInSeconds]
+           ,[Description]
+           ,[Discount]
+           ,[MainImagePath])
+     VALUES
+           (<Title, nvarchar(100),>
+           ,<Cost, money,>
+           ,<DurationInSeconds, int,>
+           ,<Description, nvarchar(max),>
+           ,<Discount, float,>
+           ,<MainImagePath, nvarchar(1000),>)
+GO
+
